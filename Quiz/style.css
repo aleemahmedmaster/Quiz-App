@@ -1,0 +1,50 @@
+body{
+    background-image: url('sighnup image.jpg'),100px;
+    background-size: 1000px;
+    font-size: 22px;
+}
+#option{
+    display: inline;
+}
+input{
+    display: block;
+    background-color: green;
+}
+.next{
+    background-color: darkcyan;
+    border: 1px dotted;
+    border-radius: 10px 10px 10px 10px;
+    margin-right: 0px;
+    margin-left: 300px;
+}
+div{
+    border: 2px dotted grey;
+    border-radius: 30px;
+    width: 400px; 
+    margin: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+p{
+    margin-left: 5px;
+    padding:5px 40px 3px 50px;
+}
+.text{
+    width: 250px;
+    height: 23px;
+    border-radius: 10px 10px 10px 10px;
+}
+.main{
+    margin: 50px 500px 100px 500px;}
+h1{
+    color: grey;
+}
+legend{
+    color: red;
+}
+.btn1{
+    height: 30px;
+    border: 1px dotted;
+    border-radius: 10px 10px 10px 10px;
+    float: left;
+}
