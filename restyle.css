@@ -1,0 +1,23 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: lightcyan;
+
+}
+
+div{
+    display: inline-block;
+    margin: 10px 50px 50px 50px;
+    font-size: 250%;
+
+}
+
+#passed{
+    color: green;
+}
+#failed{
+    color: red;
+}
+#marks{
+    padding: 45px 45px 45px 45px;
+}
+
